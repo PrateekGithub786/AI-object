@@ -30,3 +30,10 @@ body{
     width: 300px;
     font-family: 'Calligraffitti', cursive;
 }
+
+canvas{
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px grey;
+    margin-top: 140px;
+    border-radius: 30px;
+}
